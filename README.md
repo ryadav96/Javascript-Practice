@@ -14,7 +14,7 @@ Javascript engine is like translator that translate our language(Javascript) to 
 5. Firefox uses spider monkey Javascript engine.
 6. ECMAScript desides the feature of js.
 ### When give javascript engine a javascript code: 
-parser(lexical analysis)
+parser(lexical analysis) -> AST(Abstract Syntax Tree) -> interpreter -> profiler -> compiler -> optimized code ->
 
 ### Compiler and interpreter
 Withing interpreter engine read code line by line.
